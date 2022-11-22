@@ -25,24 +25,6 @@ long double faktorial(int t)
 		res = res * i;
 	}
 	return res;
-}
-
-
-void task2()
-	
-		{
-	double  c, n, k;
-	int z = (n / ((n - k) * k));
-
-
-
-
-
-
-	
-
-	
-}
 void task3()
 {
 	int m, n, k;
@@ -73,11 +55,7 @@ int main()
 				break;
 			}
 
-			case 2:
-			{
-				task2();
-				break;
-			}
+			
 			case 3:
 			{
 				task3();
