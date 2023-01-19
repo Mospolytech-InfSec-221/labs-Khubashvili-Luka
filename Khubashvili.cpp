@@ -60,7 +60,7 @@ void Game_Surname::stage1() {
     for (int i = 0; i < numPlayers; i++) {
         player Khubashvili_kinsburg;
         std::cout << "Enter player " << i + 1 << " name: ";
-        std::cin >> kishiev_kinsburg.name;
+        std::cin >> Khubashvili_kinsburg.name;
         Khubashvili_kinsburg.gold = 5;
         Khubashvili_kinsburg.wood = 5;
         Khubashvili_kinsburg.tokens = 5;
